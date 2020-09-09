@@ -35,7 +35,9 @@
 		81B100C0219AB78E0065A3B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81B100CA219ABA6A0065A3B4 /* AraleHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AraleHeaderView.swift; sourceTree = "<group>"; };
 		81B100CC219ABB440065A3B4 /* AraleHeaderViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AraleHeaderViewDelegate.swift; sourceTree = "<group>"; };
+		9A704BD52508576B004CF4A4 /* Arale */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Arale; sourceTree = "<group>"; };
 		9A98750525085572005424E2 /* Arale */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Arale; path = ../../Arale; sourceTree = "<group>"; };
+		9ACCF000250856F400FFFB8F /* Arale */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Arale; path = ../../Arale; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,8 @@
 		81B100B2219AB78E0065A3B4 /* Arale */ = {
 			isa = PBXGroup;
 			children = (
+				9A704BD52508576B004CF4A4 /* Arale */,
+				9ACCF000250856F400FFFB8F /* Arale */,
 				9A98750525085572005424E2 /* Arale */,
 				81B100B3219AB78E0065A3B4 /* Arale.h */,
 				81B100CC219ABB440065A3B4 /* AraleHeaderViewDelegate.swift */,
